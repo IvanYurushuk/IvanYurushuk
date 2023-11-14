@@ -1,4 +1,4 @@
-
+! [image] (https://github.com/IvanYurushuk/IvanYurushuk/blob/main/DevOps%20Engineer.png)
 
 - 👋 Hi, I’m @IvanYurushuk
 - 👀 At the moment I am studying to be a DevOps engineer.
