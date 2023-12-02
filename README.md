@@ -1,10 +1,9 @@
 ![image](https://github.com/IvanYurushuk/IvanYurushuk/blob/main/DevOps%20Engineer.png)
 
 - 👋 Hi, I’m @IvanYurushuk
-- 👀 At the moment I am studying to be a DevOps engineer.
+- 👀 I started my way to becoming DevOps engineer.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I want to collaborate with DevOps engineers.
 
 <!---
 IvanYurushuk/IvanYurushuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
